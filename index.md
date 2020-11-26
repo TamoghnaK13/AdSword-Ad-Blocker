@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    AdBlockify
+    
   </h1>
 
   <p>
@@ -22,7 +22,7 @@ I have recently made this extension, so be sure to check for updates!
 <dl>
   <dt>Buttons</dt>
   <dd>
-    It 
+    It is a very simple ad blocker currently with only 2 options.
   </dd>
 </dl>
 
