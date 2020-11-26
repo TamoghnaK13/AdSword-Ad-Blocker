@@ -33,10 +33,10 @@ Updates will come around once a month with new features, bug fixes, and other ch
   </dd>
 </dl>
 ## TODO
-- [ ] Add an Element Remover
-- [ ] Add Improved UI
-- [ ] Improve Ad Blocking
-- [ ] Integrate a Youtube™ ad block.
+- [ ]  Add an Element Remover
+- [ ]  Add Improved UI
+- [ ]  Improve Ad Blocking
+- [ ]  Integrate a Youtube™ ad block.
 
 
 -----------
