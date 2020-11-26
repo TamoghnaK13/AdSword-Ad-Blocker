@@ -45,4 +45,4 @@ This project is licensed under the MIT license.
 If you have any questions or comments, please email me at tamoghnak13@gmail.com. I'd be happy to hear your thoughts.
 
 
-TAmoghna Kommaraju, [AdBlockify](https://www.emailthis.me)
+Tamoghna Kommaraju, [AdBlockify](https://github.com/TamoghnaK13/AdBlockify)
