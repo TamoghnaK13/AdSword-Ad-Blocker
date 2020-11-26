@@ -1,0 +1,40 @@
+body {
+  border: 10px solid skyblue;
+  outline: #4CAF50 solid 10px;
+  margin: auto;  
+  padding: 20px;
+  text-align: center;
+}
+body {
+  width: 100px;
+}
+body {
+  background-color: lightblue;
+}
+
+@keyframes example {
+  0%   {background-color:orange; left:0px; top:0px;}
+  15%  {background-color:yellow; left:0px; top:0px;}
+  30%  {background-color:lightblue; left:0px; top:0px;}
+  45%  {background-color:lightgreen; left:0px; top:0px;}
+  60%   {background-color:red; left:0px; top:0px;}
+  75%   {background-color:pink; left:0px; top:0px;}
+  87%   {background-color:magenta; left:0px; top:0px;}
+  100% {background-color:orange; left:0px; top:0px;}
+}
+/* The element to apply the animation to */
+body {
+  width: 140px;
+  height: 175px;
+  position: relative;
+   text-align: center;
+    background-color: orange;
+  animation-name: example;
+  animation-duration: 40s;
+  animation-iteration-count: infinite;
+}
+}
+button {
+  background-color: lightblue;
+  
+}

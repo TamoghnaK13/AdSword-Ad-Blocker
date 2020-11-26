@@ -1,0 +1,1 @@
+To run Adblockify, just install and click Turn on to turn it on and Turn off to turn it off. If you make any changes or improvements, just make sure you send it to me at tamoghnak13@gmail.com!
