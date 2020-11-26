@@ -40,7 +40,7 @@ Updates will come around once a month with new features, bug fixes, and other ch
 
 
 -----------
-This project is licensed under the MIT license. 
+This project is licensed under the [MIT License](https://en.wikipedia.org/wiki/MIT_License). 
 
 If you have any questions or comments, please email me at tamoghnak13@gmail.com. I'd be happy to hear your thoughts.
 
