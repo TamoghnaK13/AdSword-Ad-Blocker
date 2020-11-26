@@ -1,3 +1,5 @@
+<a href="https://github.com/TamoghnaK13/AdBlockify">
+    <img src="icon-128.png" alt="AdBlockify">
 <div align="center">
   <h1>
     
