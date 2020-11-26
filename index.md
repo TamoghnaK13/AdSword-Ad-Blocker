@@ -20,29 +20,29 @@ I have recently made this extension, so be sure to check for updates!
 ## Features
 
 <dl>
-  <dt>Write once and deploy to Chrome, Opera & Firefox</dt>
+  <dt>Buttons</dt>
   <dd>
-    Based on WebExtensions. It also includes a tiny polyfill to bring uniformity to the APIs exposed by different browsers.
+    It 
   </dd>
 </dl>
 
 <dl>
-  <dt>Live-reload</dt>
+  <dt>Updates</dt>
   <dd>
-    Your changes to CSS, HTML & JS files will be relayed instantly without having to manually reload the extension. This ends up saving a lot of time and improving the developer experience.
+Updates will come around once a month with new features, bug fixes, and other changes that are necessary.
   </dd>
 </dl>
 ## TODO
-- [ ] Add support for Safari
-- [ ] Add Firefox & Opera Promo images
-- [ ] Add sample screenshot templates
-- [ ] Write a guide for using config variables & JS preprocessor
+- [ ] Add an Element Remover
+- [ ] Add Improved UI
+- [ ] Improve Ad Blocking
+- [ ] Integrate a Youtube™ ad block.
 
 
 -----------
 This project is licensed under the MIT license. 
 
-If you have any questions or comments, please create a new issue. I'd be happy to hear your thoughts.
+If you have any questions or comments, please email me at tamoghnak13@gmail.com. I'd be happy to hear your thoughts.
 
 
-Bharani, [Email This](https://www.emailthis.me)
+TAmoghna Kommaraju, [AdBlockify](https://www.emailthis.me)
