@@ -8,10 +8,9 @@
   </p>
 </div>
 This is a simple Chrome Extension that you can trust that does not require special permissions.
-
 <div align="center">
   <a href="https://www.emailthis.me/open-source/extension-boilerplate">
-    <img src="./resources/chrome-promo/large.png" alt="Extension Boilerplate">
+    <img src="icon.png" alt="AdBlockify">
   </a>
 </div>
 
