@@ -33,13 +33,13 @@ Updates will come around once a month with new features, bug fixes, and other ch
   </dd>
 </dl>
 ## TODO
-- [ ]-Add an Element Remover
-- [ ]-Add Improved UI
-- [ ]-Improve Ad Blocking
-- [ ]-Integrate a Youtube™ ad block.
+- [ ] - Add an Element Remover
+- [ ] - Add Improved UI
+- [ ] - Improve Ad Blocking
+- [ ] - Integrate a Youtube™ ad block.
 
 
------------
+____________________________________________________________________________________________________________________________________________________________________
 This project is licensed under the [MIT License](https://en.wikipedia.org/wiki/MIT_License). 
 
 If you have any questions or comments, please email me at tamoghnak13@gmail.com. I'd be happy to hear your thoughts.
