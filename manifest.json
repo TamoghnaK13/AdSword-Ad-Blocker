@@ -13,7 +13,7 @@
       "38": "38-icon.png"
   },
   
-  "permissions": ["webRequest", "webRequestBlocking", "http://*/", "https://*/",  "contextMenus","activeTab"],
+  "permissions": ["webRequest", "webRequestBlocking", "http://*/", "https://*/","activeTab"],
   "background": {
     "scripts": ["blocked_domains.js", "background.js"]
   },
