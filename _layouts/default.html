@@ -26,16 +26,13 @@
     <header class="page-header" role="banner">
      <div align="center">
   <img src="icon-128.png" alt="AdBlockify">
-      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+      <h1 class="project-name">{{ AdBlockify }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
         <a href="{{ https://github.com/TamoghnaK13/AdBlockify }}" class="btn">View AdBlockify Version 1.0 on Github
       <a href="chrome.google.com/webstore"class="btn">Get AdBlockify Version 1.0 for Chrome</a>
       {% endif %}
       {% if site.show_downloads %}
-        <a href="{{ github:
-                 
-                 .zip_url }}" class="btn">Download AdBlockify Version 1.0</a>
       {% endif %}
     </header>
 
